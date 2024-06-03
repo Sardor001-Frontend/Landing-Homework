@@ -1,0 +1,388 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+    background-color:#FFFFFF ;
+    width: 1440px;
+    height: 72px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    font-size: 16px;
+    padding-right: 15px;
+}
+.info{
+    display: flex;
+    margin-top: 50px;
+    gap: 65px;
+}
+.big{
+        font-size: 80px;
+}
+.information{
+    display: flex;
+    flex-direction: column;
+    gap: 25px;
+    padding: 25px;
+}
+.first{
+    display: flex;
+    flex-direction: column;
+    width: 1440px;
+    height: 853px;
+    margin: 0 auto;
+}
+.investors{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 30px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+.names{
+    display: flex;
+    gap: 20px;
+}
+.second{
+    background-color: #FFF2E9;
+    padding-top: 50px;
+
+}
+.black1{
+    background-color:black ;
+    color: white;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 10px;
+    width: 146px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+}
+.btns{
+    display: flex;
+    gap: 30px;
+}
+
+.white{
+    background-color:#FFEBDD;
+    color: black;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    gap: 10px;
+    width: 146px;
+    height: 40px;
+    border-radius: 8px;
+    border: none;
+}
+.bigg{
+    font-size: 48px;
+}
+.zagolovok{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.therd{
+    margin-top: 150px;
+}
+.functions{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 85px;
+    margin-top:100px ;
+}
+.function{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+}
+.b{
+    font-size: 28px;
+}
+.a{
+    font-size: 18px;
+}
+.smth{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 150px;
+}
+.black{
+    color: black;
+    font-size: 48px;
+    text-align: center;
+}
+
+.gray{
+    color: #000000BF;
+    font-size: 18px;
+    text-align: center;
+}
+.statistiks{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 200px;
+    margin-top: 50px;
+}
+.blocks{
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+.block1{
+    background-color: #FFFFFF;
+    width:  456px;
+    height: 164px;
+    border-radius: 12px;
+    border: 1px solid #FC5A5A, 0px, 0px, 0px;
+    padding: 32px, 40px, 32px, 40px;
+    display: flex;
+    flex-direction: column;
+}
+.block2{
+    background-color: #FFFFFF;
+    width:  456px;
+    height: 104px;
+    border-radius: 12px;
+    border: 1px, 0px, 0px, 0px;
+    padding: 32px, 40px, 32px, 40px;
+    display: flex;
+    gap: 15px;
+}
+.block3{
+    background-color: #FFFFFF;
+    width:  456px;
+    height: 104px;
+    border-radius: 12px;
+    border: 1px, 0px, 0px, 0px;
+    padding: 32px, 40px, 32px, 40px;
+    display: flex;
+    gap: 15px;
+}
+.smb{
+    font-size: 21px;
+}
+.cut{
+    font-size: 14px;
+}
+.num{
+    width: 40px;
+    height: 40px;
+}
+.bl{
+    display: flex;
+    gap: 15px;
+    margin-bottom:15px ;
+    align-items: center;
+}
+.another{
+    display: flex;
+    gap: 150px;
+    justify-content: center;
+    align-items: center;
+    margin-top: 150px;
+}
+.esse{
+    font-size: 40px;
+    font-family: Georgia;
+}
+.text{
+    display: flex;
+    flex-direction: column;
+    gap: 35px;
+
+}
+.name{
+    font-family: Inter;
+    font-size: 18px;
+}
+.btn{
+    background-color: black;
+    width: 200px;
+    height: 48.19px;
+    border-radius: 10px;
+    padding: 12px, 24px, 12px, 24px;
+    gap: 12px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bluebtns{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+}
+.payrol{
+    width: 1240px;
+    height: 223px;
+    border-radius: 12px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bb{
+    color: white;
+    font-size: 48px;
+}
+.top{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.ba{
+    color: gray;
+    font-size: 18px;
+}
+.black-box {
+    width: 1240px;
+    height: 223px;
+    border-radius: 12px;
+    background-color: black;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 140px;
+    margin-top: 128px;
+    gap: 360px;
+}
+
+.action {
+    width: 382px;
+    height: 51px;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 50.4px;
+    letter-spacing: -2.4px;
+}
+
+.demo {
+    width: 407px;
+    height: 28px;
+    font-weight: 400;
+    font-size: 17.81px;
+    line-height: 28px;
+    letter-spacing: 1px;
+    color: #FFFFFFBF;
+    opacity: 75%;
+}
+
+.demo-book {
+    width: 167px;
+    height: 49px;
+    border-radius: 10px;
+    padding: 12.8px, 24px, 12.81px, 24px;
+    gap: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: none;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 31px;
+}
+
+.explores {
+    font-family: sans-serif;
+}
+
+.left {
+    gap: 16px;
+    display: flex;
+    flex-direction: column;
+}
+
+.footer {
+    width: 1540px;
+    height: 400px;
+    background-color: #FFF2E9;
+    margin-top: 48px;
+    display: flex;
+    align-items: center;
+    font-family: sans-serif;
+    gap: 120px;
+}
+
+.lab {
+    margin-left: 100px;
+    display: flex;
+    flex-direction: column;
+    gap: 28px;
+}
+
+.make {
+    width: 313px;
+    height: 72px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    display: flex;
+    margin-top: 20px;
+    color: #12121291;
+    opacity: 57%;
+}
+
+
+.company {
+    display: flex;
+    flex-direction: column;
+    gap: 23px;
+}
+
+.solutions {
+    display: flex;
+    flex-direction: column;
+    gap: 23px;  
+    margin-top: -40px;
+}
+
+.legal {
+    display: flex;
+    flex-direction: column;
+    gap: 23px;
+    margin-top: -40px;
+}
+
+.makes {
+    color: #12121291;
+    opacity: 57%;
+}
+
+.sponsers {
+    display: flex;
+    gap: 10px;
+}
