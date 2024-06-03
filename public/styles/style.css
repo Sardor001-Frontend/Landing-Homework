@@ -436,7 +436,8 @@ a{
 
 .makes {
     color: #12121291;
-    opacity: 57%;
+    display: flex;
+    flex-direction: column;
 }
 
 .sponsers {
